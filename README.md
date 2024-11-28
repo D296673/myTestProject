@@ -5,3 +5,4 @@ f# myTestProject234
 55
 eart4
 4
+sdc
